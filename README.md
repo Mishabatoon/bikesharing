@@ -1,10 +1,10 @@
 # Bike Sharing
 
-## Overview of the Analysis:
- 
  The purpose of this project is to analyze the data for New York City Citi Bike using Tableau Application. This project will provide a visual representation that shows where do bikers go, when and where do they ride, trips by gender during weekdays and weekends, and trip durations.
 
-To view the data visualization, please click the link: [NYC Citi Bike Data Analytics](https://public.tableau.com/shared/XYBHWPD6H?:display_count=n&:origin=viz_share_link)
+To view the data visualization, please click the link: [NYC Citi Bikes Data Analytics](https://public.tableau.com/views/Bikeshare_NYC/Story?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 
 
 ## Results:
